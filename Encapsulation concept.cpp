@@ -27,6 +27,7 @@ public:
 	}
 	void setgpa(float GPA)
 	{
+	        // condition to be executed in order to get the result
 		if (GPA >= 3.5)
 		gpa = GPA ;
 	}
@@ -36,6 +37,7 @@ public:
 	}
 	void setcms(int CMS)
 	{
+		// condition to be executed in order to get the result
 		if (CMS>=100000)
 		cms = CMS;
 	}
@@ -64,9 +66,9 @@ int main()
 	
 	// creating object encaps1 in class
 	encapsulation encaps1;
-	encaps1.setcms(393404);
+	encaps1.setcms(100100);
 	cout << "\n\n My CMS is " << encaps1.getcms() << endl;
-	encaps1.setsec("BSCS 11-A");
+	encaps1.setsec("BSCS");
 	cout << "\n\n My section is " << encaps1.getsec() << endl;
 	
 	return 0;

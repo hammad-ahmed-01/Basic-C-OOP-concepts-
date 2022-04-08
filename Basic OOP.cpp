@@ -7,7 +7,7 @@
 // using std namespace
 using namespace std;
 
-// initializing class intro
+// defining class intro
 class intro 
 {
 // data members in a class are private by default so we have to label public 
@@ -34,7 +34,7 @@ public:
 int main() 
 {
 	// creating object my_intro in class intro
-	intro my_intro=intro("Hammad Ahmed",393404,"BSCS 11-A",3.5);
+	intro my_intro=intro("Hammad Ahmed",100100,"BSCS",3.5);
 	my_intro.introduction();
 	return 0;
 }

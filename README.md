@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="#">
-    <img src="javascript_logo.png" alt="Logo" width="150" height="150">
+    <img src="Cplus.png" alt="Logo" width="250" height="180">
   </a>
 
   <h1 align="center">Basic OOP Concepts </h1>

@@ -34,6 +34,8 @@
     </li>
     <li><a href="#basic-oop">OOP Concept 1 - Defining and accessing class members</a></li>
     <li><a href="#encapsulation">OOP Concept 2 - Encapsulation</a></li>
+    <li><a href="#constructors">OOP Concept 3 - Constructors</a></li>
+    <li><a href="#destructors">OOP Concept 4 - Destructors</a></li>
   </ul>
 </details>
 

@@ -1,3 +1,6 @@
+// Author == Hammad Ahmed
+// Microsoft .vs
+
 #include<iostream>
 using namespace std;
 
